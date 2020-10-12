@@ -1,0 +1,6 @@
+C:\CodeProjects\ValueVsRefTypes2\bin\Debug\ValueVsRefTypes2.exe.config
+C:\CodeProjects\ValueVsRefTypes2\bin\Debug\ValueVsRefTypes2.exe
+C:\CodeProjects\ValueVsRefTypes2\bin\Debug\ValueVsRefTypes2.pdb
+C:\CodeProjects\ValueVsRefTypes2\obj\Debug\ValueVsRefTypes2.csprojAssemblyReference.cache
+C:\CodeProjects\ValueVsRefTypes2\obj\Debug\ValueVsRefTypes2.exe
+C:\CodeProjects\ValueVsRefTypes2\obj\Debug\ValueVsRefTypes2.pdb
